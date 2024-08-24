@@ -1,0 +1,50 @@
+Explain the concept of a self-balancing binary search tree (e.g., Red-Black Tree) and its balancing operations.
+5
+Describe the concept of a persistent data structure and provide an example.
+5
+What is the Floyd-Rivest algorithm for finding the approximate median in linear time?
+5
+Explain the concept of a Bloom filter, including its implementation and trade-offs.
+5
+Describe the Burrows-Wheeler Transform and its applications in data compression.
+5
+What is the difference between a Fibonacci heap and a binary heap in terms of time complexity and operations?
+5
+Explain the concept of a suffix array and its applications in string processing.
+5
+Describe the concept of a treap data structure and its properties.
+5
+What is the concept of a Cartesian tree and how is it constructed from a given sequence?
+5
+Explain the concept of a persistent segment tree and its applications.
+5
+Describe the concept of a van Emde Boas tree and its advantages over other tree structures.
+5
+What is the purpose of the Karp-Rabin algorithm and how does it work for string matching?
+5
+Explain the concept of a skip graph data structure and its properties.
+5
+Describe the concept of a rope data structure for efficient string manipulation.
+5
+What is the concept of a Fenwick tree (Binary Indexed Tree) and its applications?
+5
+Explain the concept of a succinct data structure and its benefits in terms of space efficiency.
+5
+Describe the concept of a suffix tree and its applications in string processing.
+5
+What is the purpose of the Bron-Kerbosch algorithm in graph theory?
+5
+Explain the concept of a cuckoo hash table and its properties.
+5
+Describe the concept of a persistent union-find data structure and its applications.
+5
+What is the concept of a Burrows-Wheeler Block Sort (BWT) and how does it work?
+5
+Explain the concept of a compressed trie data structure and its applications.
+5
+Describe the concept of a wavelet tree and its applications in string processing.
+5
+What is the concept of a balanced parentheses problem and how can it be solved efficiently?
+5
+Explain the concept of a succinct suffix array and its space-efficient representation.
+5

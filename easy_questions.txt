@@ -1,0 +1,50 @@
+What is a data structure?
+1
+What is an algorithm?
+1
+Explain the difference between an array and a linked list.
+1
+What is the time complexity of inserting an element at the end of an array? What about a linked list?
+1
+What is a stack? Provide an example of its application.
+1
+What is a queue? Provide an example of its application.
+1
+What is a binary search tree (BST)? How does it differ from a regular binary tree?
+1
+Explain the concept of recursion.
+1
+What is a sorting algorithm? Give an example of a sorting algorithm.
+1
+Describe the different asymptotic notations.
+1
+What is the purpose of a hash table?
+1
+Explain the concept of time complexity.
+1
+What is Big O notation and why is it important?
+1
+What is a linked list cycle? How can you detect it?
+1
+What is dynamic programming and when is it used?
+1
+What is a priority queue and when is it used?
+1
+Explain the difference between breadth-first search (BFS) and depth-first search (DFS).
+1
+What is the difference between an array and a linked list?
+1
+Explain the concept of a doubly linked list.
+1
+What is the purpose of a binary search algorithm?
+1
+Describe the concept of a graph in data structures.
+1
+What is the purpose of a heap data structure?
+1
+Explain the concept of a greedy algorithm.
+1
+What is the difference between an algorithm's best-case, worst-case, and average-case time complexity?
+1
+Is Tree a primitive or non-primitive data structure?
+1

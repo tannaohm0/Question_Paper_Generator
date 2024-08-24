@@ -1,0 +1,50 @@
+Explain the difference between a stack and a queue.
+3
+What is the difference between a binary tree and a binary search tree (BST)?
+3
+Given preorder (2,3,4,5,6,7,8,9) and postorder (9,3,4,5,6,7,8,2). Generate Inorder tree.
+3
+Describe the concept of a linked list with a cycle and how you can detect it.
+3
+Explain the concept of a balanced binary search tree (AVL tree) and its importance.
+3
+What is a priority queue and how is it implemented?
+3
+Explain the difference between depth-first search (DFS) and breadth-first search (BFS) in graph traversal.
+3
+Describe the concept of a tree data structure and its applications.
+3
+What is the difference between a graph and a tree in data structures?
+3
+Explain the concept of dynamic programming and provide an example problem that can be solved using it.
+3
+What is the traveling salesman problem and how can it be solved?
+3
+What are the different types of Queues? Explain with examples.
+3
+Explain the concept of Dijkstra's algorithm and when it is used.
+3
+What is the concept of a minimum spanning tree in graph theory?
+3
+Classify the different types of data structures.
+3
+Give application of Linked List. 
+3
+Consider the 3D-array A[3:10,1:15,10:20] in row order with base address 500 and size of 4 bytes. Find A[5,10,15].
+3
+Describe the concept of a B-tree and its advantages over binary search trees.
+3
+How many null pointer(s) exist in a circular doubly linked list?
+3
+What is the difference between Row Major Order and Column Major Order?
+3
+What are the different types of Linked List? Explain with examples.
+3
+What will be the postfix of the infix expression A^B^C^D^E^F?
+3
+Explain the different types of BST with appropriate examples.
+3
+Write code to implement Stack data structure using Linked List.
+3
+Define the following terms. Height, Depth, Maximum Path Sum in a trees.
+3
